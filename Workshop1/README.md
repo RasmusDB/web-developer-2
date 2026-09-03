@@ -1,2 +1,2 @@
-# web-developer-2-html-css
-First workshop
+# Web Development 2 – HTML
+First workshop, basic html without proper formatting.

@@ -55,6 +55,12 @@ if (vAge < 18) {
   console.log("You are an adult.");
 }
 
+function greetUser(name) { 
+    console.log("Hello " + name + "!"); 
+}
+
+greetUser(visitorName);
+
 const messageButton = document.getElementById("messageButton");
 
 messageButton.addEventListener("click", function () {
